@@ -5,18 +5,20 @@ import styles from '@/pages/index.module.css'
 
 export default function Home() {
   return (
+    
     <div className={styles.container}>
+       <h5>test cicd nè </h5>
+        <h5>test cicd nè </h5>
+        <h5>test cicd nè </h5>
+        <h5>test cicd nè </h5>
+        <h5>test cicd nè </h5>
       <Head>
         <title>Create Next App</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
-        <h5>test cicd nè </h5>
-        <h5>test cicd nè </h5>
-        <h5>test cicd nè </h5>
-        <h5>test cicd nè </h5>
-        <h5>test cicd nè </h5>
+       
         <h1 className={styles.title}>
           Welcome to <a href="https://nextjs.org">Test Github Action by Hoang && Tuan</a>
         </h1>
