@@ -5,6 +5,21 @@ exports[`renders homepage unchanged 1`] = `
   <div
     class="container"
   >
+    <h5>
+      test cicd nè 
+    </h5>
+    <h5>
+      test cicd nè 
+    </h5>
+    <h5>
+      test cicd nè 
+    </h5>
+    <h5>
+      test cicd nè 
+    </h5>
+    <h5>
+      test cicd nè 
+    </h5>
     <main>
       <h1
         class="title"
