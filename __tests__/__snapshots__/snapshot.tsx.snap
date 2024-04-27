@@ -13,7 +13,7 @@ exports[`renders homepage unchanged 1`] = `
         <a
           href="https://nextjs.org"
         >
-          HoleTex
+          Test Github Action by Hoang && Tuan
         </a>
       </h1>
       <p
