@@ -13,6 +13,10 @@ export default function Home() {
 
       <main>
         <h5>test cicd nè </h5>
+        <h5>test cicd nè </h5>
+        <h5>test cicd nè </h5>
+        <h5>test cicd nè </h5>
+        <h5>test cicd nè </h5>
         <h1 className={styles.title}>
           Welcome to <a href="https://nextjs.org">Test Github Action by Hoang && Tuan</a>
         </h1>
