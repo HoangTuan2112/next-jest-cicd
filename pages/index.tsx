@@ -20,6 +20,7 @@ export default function Home() {
       <main>
         <h1>aaaaaaaa</h1>
         <h1>aaaaaaaa</h1>
+        <h2>bbbbbbbb</h2>
         <h1 className={styles.title}>
           Welcome to <a href="https://nextjs.org">Test Github Action by Hoang && Tuan</a>
         </h1>
